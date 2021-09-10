@@ -1,7 +1,4 @@
-<?php 
-$name = "Leo";
-echo $name;
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,8 +12,8 @@ echo $name;
 
 <body>
     
-    <H1>this is html</H1>
-    <H1>this is html</H1>
+    <H1>Leo Khawarizmi</H1>
+
     
 </body>
 </html>
