@@ -1,6 +1,6 @@
 <?php 
 $name = "Leo";
-
+echo $name;
 ?>
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ $name = "Leo";
 
 
 <body>
-    <b><?php echo $name;?></b>
+    
     <H1>this is html</H1>
     <H1>this is html</H1>
     
