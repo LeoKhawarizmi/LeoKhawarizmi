@@ -14,7 +14,7 @@ $name = "Leo";
 
 
 <body>
-    <b>echo $name;</b>
+    <b><?php echo $name;?></b>
     <H1>this is html</H1>
     <H1>this is html</H1>
     
